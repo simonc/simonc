@@ -28,13 +28,3 @@
   <img alt="chartjs"    src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
   <img alt="linux"      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
-
----
-
-<p style="margin-bottom: 2rem;"><img alt="simonc" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonc&layout=compact&hide=html" /></p>
-<p><img alt="simonc" align="center" src="https://github-readme-stats.vercel.app/api?username=simonc&show_icons=true" /></p>
-
-<p align="center">
-  <a href="https://twitter.com/happynoff" target="blank"><img alt="happynoff" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/simoncourtois" target="blank"><img alt="simoncourtois" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-</p>
