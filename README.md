@@ -5,6 +5,8 @@
 * 🐒 I’m currently working on [PDFMonkey](https://www.pdfmonkey.io)
 * 📝 I sometimes write articles on [https://www.pdfmonkey.io/blog](https://www.pdfmonkey.io/blog)
 
+---
+
 <p align="left">
   <img alt="ruby"       src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
   <img alt="rails"      src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
@@ -24,6 +26,8 @@
   <img alt="chartjs"    src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
   <img alt="linux"      src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
+
+---
 
 <p><img alt="simonc" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonc&layout=compact&hide=html" /></p>
 <p>&nbsp;<img alt="simonc" align="center" src="https://github-readme-stats.vercel.app/api?username=simonc&show_icons=true" /></p>
